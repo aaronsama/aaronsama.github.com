@@ -1,2 +1,19 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+
+.wrapper_single {
+	.container .span8 {
+		background-color: #f1f1f1;
+		background-image: none;
+		padding: 2em;
+	}
+}
+
+.bibliography {
+	li {
+		margin-top: 1em;
+		i {
+			font-style: italic;
+		}
+	}
+}

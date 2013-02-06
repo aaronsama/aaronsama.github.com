@@ -1,7 +1,7 @@
 source "http://rubygems.org"
 
 group :development do
-  gem 'rake', '~> 0.9'
+  gem 'rake'
   gem 'rack', '~> 1.4.1'
   gem 'jekyll', '~> 0.12'
   gem 'rdiscount', '~> 1.6.8'
@@ -13,6 +13,8 @@ group :development do
   gem 'rb-fsevent', '~> 0.9'
   gem 'stringex', '~> 1.4.0'
   gem 'liquid', '~> 2.3.0'
+  gem 'jekyll-scholar'
+  gem 'json'
 end
 
 gem 'sinatra', '~> 1.3.3'
