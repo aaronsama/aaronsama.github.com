@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Dwesa"
+date: 2013-03-12 15:49
+comments: true
+categories:
+---
+
+Last week I've been to Dwesa [(map)](http://goo.gl/maps/FNVSX) to visit the schools involved in the [Siyakhula Living Lab](http://www.siyakhulall.org) project by Rhodes University and the University of Fort Hare. We had a chance to see the wireless infrastructure put up by the researchers here and we had a glimpse of how life is in a South African rural area.
+
+For about a week we lived in a chalet in the forest without electricity (but very close to the beach!). Quite an interesting experience... During the day we helped out with computer literacy training for community members (some of which had never seen a PC before). It required a lot of patience but our "students" went from not knowing how to turn on a PC to writing documents in LibreOffice. On our side, we ended up learning some isiXhosa and we even got Xhosa names!
+
+Check out some pictures [here](https://plus.google.com/photos/114898185666501747872/albums/5847352786922977793?authkey=CIu1pMWrs9__7wE).
