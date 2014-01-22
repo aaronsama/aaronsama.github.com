@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Aaron Ciaghi]]></title>
+  <link href="http://aaronsama.github.com/atom.xml" rel="self"/>
+  <link href="http://aaronsama.github.com/"/>
+  <updated>2014-01-22T11:45:52+01:00</updated>
+  <id>http://aaronsama.github.com/</id>
+  <author>
+    <name><![CDATA[Aaron Ciaghi]]></name>
+    <email><![CDATA[ciaghi@fbk.eu]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Dwesa again... and then back to Italy]]></title>
+    <link href="http://aaronsama.github.com/blog/2013/04/16/dwesa-again-dot-dot-dot-and-then-back-to-italy/"/>
+    <updated>2013-04-16T13:30:00+02:00</updated>
+    <id>http://aaronsama.github.com/blog/2013/04/16/dwesa-again-dot-dot-dot-and-then-back-to-italy</id>
+    <content type="html"><![CDATA[<p>I almost forgot about this page in the last month or so in SA, so no interesting post about my stay in South Africa&#8230;</p>
+
+<p>Anyway, I&#8217;m going back to Dwesa tomorrow for a huge celebration held by the Siyakhula Living Lab there to which a lot of important people (including a king!) will participate. It looks fun except the formal dress code and the fact that it might rain.</p>
+
+<p>One thing I learned here is that you never know what is gonna happen tomorrow so we&#8217;ll see&#8230; One thing I know for sure (and there&#8217;s a story behind that as well) is that I&#8217;ll go back to Italy on the 23rd of April. So it&#8217;s one week to go!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Dwesa]]></title>
+    <link href="http://aaronsama.github.com/blog/2013/03/12/dwesa/"/>
+    <updated>2013-03-12T15:49:00+01:00</updated>
+    <id>http://aaronsama.github.com/blog/2013/03/12/dwesa</id>
+    <content type="html"><![CDATA[<p>Last week I&#8217;ve been to Dwesa <a href="http://goo.gl/maps/FNVSX">(map)</a> to visit the schools involved in the <a href="http://www.siyakhulall.org">Siyakhula Living Lab</a> project by Rhodes University and the University of Fort Hare. We had a chance to see the wireless infrastructure put up by the researchers here and we had a glimpse of how life is in a South African rural area.</p>
+
+<p>For about a week we lived in a chalet in the forest without electricity (but very close to the beach!). Quite an interesting experience&#8230; During the day we helped out with computer literacy training for community members (some of which had never seen a PC before). It required a lot of patience but our &#8220;students&#8221; went from not knowing how to turn on a PC to writing documents in LibreOffice. On our side, we ended up learning some isiXhosa and we even got Xhosa names!</p>
+
+<p>Check out some pictures <a href="https://plus.google.com/photos/114898185666501747872/albums/5847352786922977793?authkey=CIu1pMWrs9__7wE">here</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Big Change: I'm in South Africa]]></title>
+    <link href="http://aaronsama.github.com/blog/2013/02/19/in-south-africa/"/>
+    <updated>2013-02-19T12:26:00+01:00</updated>
+    <id>http://aaronsama.github.com/blog/2013/02/19/in-south-africa</id>
+    <content type="html"><![CDATA[<p>I&#8217;m in South Africa. I&#8217;ll be a visiting researcher at Rhodes University until the end of April. My job here is to meet as many people as possible who are involved in ICT for Development projects (ICT4D). The goal is to investigate which software development methodologies and project management techniques are applied in ICT4D project in order to figure out what works, what doesn&#8217;t and especially why.</p>
+]]></content>
+  </entry>
+  
+</feed>

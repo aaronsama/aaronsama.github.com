@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: phd | Aaron Ciaghi]]></title>
+  <link href="http://aaronsama.github.com/blog/categories/phd/atom.xml" rel="self"/>
+  <link href="http://aaronsama.github.com/"/>
+  <updated>2014-01-22T11:45:53+01:00</updated>
+  <id>http://aaronsama.github.com/</id>
+  <author>
+    <name><![CDATA[Aaron Ciaghi]]></name>
+    <email><![CDATA[ciaghi@fbk.eu]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Big Change: I'm in South Africa]]></title>
+    <link href="http://aaronsama.github.com/blog/2013/02/19/in-south-africa/"/>
+    <updated>2013-02-19T12:26:00+01:00</updated>
+    <id>http://aaronsama.github.com/blog/2013/02/19/in-south-africa</id>
+    <content type="html"><![CDATA[<p>I'm in South Africa. I'll be a visiting researcher at Rhodes University until the end of April. My job here is to meet as many people as possible who are involved in ICT for Development projects (ICT4D). The goal is to investigate which software development methodologies and project management techniques are applied in ICT4D project in order to figure out what works, what doesn't and especially why.</p>
+]]></content>
+  </entry>
+  
+</feed>
