@@ -4,7 +4,7 @@
   <title><![CDATA[Aaron Ciaghi]]></title>
   <link href="http://aaronsama.github.com/atom.xml" rel="self"/>
   <link href="http://aaronsama.github.com/"/>
-  <updated>2014-01-22T11:45:52+01:00</updated>
+  <updated>2014-01-22T11:55:21+01:00</updated>
   <id>http://aaronsama.github.com/</id>
   <author>
     <name><![CDATA[Aaron Ciaghi]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Exciting News]]></title>
+    <link href="http://aaronsama.github.com/blog/2014/01/22/exciting-news/"/>
+    <updated>2014-01-22T11:49:00+01:00</updated>
+    <id>http://aaronsama.github.com/blog/2014/01/22/exciting-news</id>
+    <content type="html"><![CDATA[<p>I haven&#8217;t been keeping these pages updated (actually I forgot about this website and I&#8217;m not sure if there is someone who actually reads my posts).</p>
+
+<p>But anyway, I&#8217;m getting married in one month time! <a href="http://www.venti2due.it">Here</a> are all the details.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Dwesa again... and then back to Italy]]></title>
